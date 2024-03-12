@@ -21,7 +21,7 @@
 	var initESW = function(gslbBaseURL) {
 		embedded_svc.settings.displayHelpButton = true; //Or false
 		embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
-
+		embedded_svc.settings.chatbotAvatarImgURL = 'https://www.freepik.com/free-vector/illustration-businessman_2606517.htm#query=avatar%20placeholder&position=2&from_view=keyword&track=ais&uuid=24d4898d-331d-4af4-8474-71624395213d';
 		//embedded_svc.settings.defaultMinimizedText = '...'; //(Defaults to Chat with an Expert)
 		//embedded_svc.settings.disabledMinimizedText = '...'; //(Defaults to Agent Offline)
 
